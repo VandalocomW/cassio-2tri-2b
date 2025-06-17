@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
     '.',
     'Qual é o tamanho do bico de sapato?',
-    'Podem atingir até 1,52'
+    'Podem atingir até 1,52m'
 )
 
 criaCartao(
